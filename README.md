@@ -39,31 +39,22 @@ The result is a dictionary sorted by values
 🛠 Concepts Used
 
 Dictionaries
-
 sorted() function
-
 Lambda functions
-
 Key-value pairs
 
 🎯 Use Cases
 
 Interview preparation
-
 Ranking and scoring systems
-
 Data analysis basics
-
 Dictionary manipulation
 
 🚀 Possible Improvements
 
 Sort in descending order
-
 Sort by keys instead of values
-
 Convert into a function
-
 Handle large datasets
 
 👨‍💻 Author
